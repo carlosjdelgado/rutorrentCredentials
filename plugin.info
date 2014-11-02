@@ -1,0 +1,6 @@
+description: The plug-in allows users to login into rutorrent.
+author: carlosjdelgado
+version: 0.1
+need_rtorrent: 1
+remote: ok
+runlevel: 15
